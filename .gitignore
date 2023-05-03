@@ -3,9 +3,4 @@
 
 .main
 
-
-
-.idea/.gitignore
-.idea/lenslocked.iml
-.idea/modules.xml
-.idea/vcs.xml
+.idea
